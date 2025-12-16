@@ -27,3 +27,6 @@ predictions/
 # Temporary files
 tmp/
 cache/
+
+# Figure 1 outputs (generated files)
+01_overall_characteristics/outputs/
