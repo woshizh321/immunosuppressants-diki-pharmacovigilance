@@ -30,3 +30,33 @@ cache/
 
 # Figure 1 outputs (generated files)
 01_overall_characteristics/outputs/
+
+02_hierarchical_signal_detection/config/config_local.R
+02_hierarchical_signal_detection/outputs/
+
+03_subgroup_stratified_analysis/config/config_local.R
+03_subgroup_stratified_analysis/outputs/
+
+04_drug_level_lasso/config/config_local.R
+04_drug_level_lasso/outputs/
+04_drug_level_lasso/outputs/models/*.rds
+
+05_molecule_level_lasso/config/config_local.R
+05_molecule_level_lasso/outputs/
+05_molecule_level_lasso/outputs/models/*.rds
+
+# -------------------------------
+# Local configs (do not track)
+# -------------------------------
+02_hierarchical_signal_detection/config/config_local.R
+03_subgroup_stratified_analysis/config/config_local.R
+04_drug_level_lasso/config/config_local.R
+05_molecule_level_lasso/config/config_local.R
+
+# -------------------------------
+# Generated outputs (do not track)
+# -------------------------------
+02_hierarchical_signal_detection/outputs/
+03_subgroup_stratified_analysis/outputs/
+04_drug_level_lasso/outputs/
+05_molecule_level_lasso/outputs/
