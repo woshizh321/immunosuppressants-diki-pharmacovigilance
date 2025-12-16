@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# R / Python cache
+.Rhistory
+.RData
+.Rproj.user
+__pycache__/
+*.pyc
+
+# Large data files (DO NOT UPLOAD)
+*.parquet
+*.rds
+*.fst
+*.feather
+*.arrow
+*.csv
+
+# Model outputs
+model_outputs/
+QC_outputs/
+predictions/
+
+# Temporary files
+tmp/
+cache/
