@@ -48,6 +48,8 @@ cache/
 06_risk_portraits/config/config_local.R
 06_risk_portraits/outputs/
 
+07_jader_validation/config/config_local.R
+07_jader_validation/outputs/
 # -------------------------------
 # Local configs (do not track)
 # -------------------------------
