@@ -45,6 +45,9 @@ cache/
 05_molecule_level_lasso/outputs/
 05_molecule_level_lasso/outputs/models/*.rds
 
+06_risk_portraits/config/config_local.R
+06_risk_portraits/outputs/
+
 # -------------------------------
 # Local configs (do not track)
 # -------------------------------

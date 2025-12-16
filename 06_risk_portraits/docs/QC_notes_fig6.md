@@ -1,0 +1,4 @@
+- Locked model coefficients were reused without modification
+- No data-driven thresholding was applied
+- Risk categories were defined a priori
+- Absolute risks were interpreted comparatively
